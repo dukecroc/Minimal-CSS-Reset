@@ -1,0 +1,24 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, img, ol, ul, caption, th, td, input {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+}
